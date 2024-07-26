@@ -3,3 +3,10 @@ another line here
 
 Form the lines
 9:22 am
+<<<<<<< Updated upstream
+=======
+
+this line is for the new branch
+
+stashing returning
+>>>>>>> Stashed changes
